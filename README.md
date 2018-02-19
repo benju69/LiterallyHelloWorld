@@ -18,7 +18,7 @@ First of four student projects made in 2017-2018 as part of <a href="https://eu.
 *In progress*
 <h2>Goal</h2>
 
-*Draw a card wireframe and implement it in XML. It should be simple and clear and shouldn't have fixed widths or heights.*
+Draw a card wireframe and implement it in XML. It should be simple and clear and shouldn't have fixed widths or heights.
 
 <h2>Top 5 key learnings</h2>
 
@@ -51,4 +51,4 @@ This project is up for translation! Feel free to make a Pull Request with values
 - Colors from <a href="https://material.io/guidelines/style/color.html#color-color-palette" target="_blank">the official Material palette
 
 <h2>Copyright</h2>
-This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href=".idea/copyright">copyright</a> folder.
+This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct. See <a href="LICENSES">LICENSES</a> and <a href=".idea/copyright">copyright</a> folders.
