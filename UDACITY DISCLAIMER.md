@@ -23,5 +23,5 @@ I, the author of this project, put the whole project code to open-source
 for help and reference but assumes no responsibility if you get penalized
 and/or expelled for submitting it as your own.
 
-Full Udacity Honor Code and Community Code of Conduct can be found at: 
-https://www.udacity.com/legal/community-guidelines
+Full Udacity Honor Code and Community Code of Conduct can be found at:
+udacity.com/legal/community-guidelines
