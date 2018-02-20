@@ -1,6 +1,7 @@
 <div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
 <h1 align="center">Literally Hello World</h1>
-<p align="center">Hit that button and say "Hi!" to the world. This is my very first app 😃🎉</p>
+<p align="center"><strong>Hit that button and say "Hi!" to the world.</strong>
+<br>This is my very first app 😃🎉</p>
 <br/>
 <div align="center"><img src="Screenshots/ezgif-5-51a1b7ecda.gif"></img></div>
 <h2>About</h2>
