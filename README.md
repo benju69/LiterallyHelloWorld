@@ -28,7 +28,7 @@ Draw a card wireframe and implement it in XML. It should be simple and clear and
 - LDPI support
 - RTL support
 
-Project has been improved at the end of Phase 1 given the new learnings acquired by then.
+Project has been improved at the end of Phase 1 given the new learnings acquired then.
 
 <h2>Installation</h2>
 
