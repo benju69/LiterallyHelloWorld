@@ -24,6 +24,7 @@ Draw a card wireframe and implement it in XML. It should be simple and clear and
 <h2>Top 5 key learnings</h2>
 
 - Layout weights
+- App translation
 - Landscape support
 - LDPI support
 - RTL support
