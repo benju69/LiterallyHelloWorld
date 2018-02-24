@@ -3,7 +3,7 @@
 <p align="center"><strong>Hit that button and say "Hi!" to the world.</strong>
 <br>This is my very first app 😃🎉</p>
 <br/>
-<div align="center"><img src="screenshots/ezgif-5-51a1b7ecda.gif"></img></div>
+<div align="center"><img src="demo/ezgif-5-51a1b7ecda.gif"></img></div>
 <h2>About</h2>
 First of four student projects made in 2017-2018 as part of <a href="https://eu.udacity.com/course/android-basics-nanodegree-by-google--nd803" target="_blank">Udacity's Android Basics Nanodegree</a>.
 
